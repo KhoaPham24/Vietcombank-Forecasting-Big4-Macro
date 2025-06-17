@@ -39,6 +39,9 @@ This project applies a 3-phase VAR-based framework—comprising data stationarit
 ![image](https://github.com/user-attachments/assets/6b9c7563-6da8-42d6-a5d6-06e92af1c24b)
 *This figure describes the framework in 3 phases*
 
+**Note:**
+![image](https://github.com/user-attachments/assets/bdcda2ce-a7d4-4a70-a57b-43614871b3c2)
+
 
 ## Result
 The VAR model reveals significant interdependencies between Vietcombank’s stock price and macro-financial variables. Granger causality tests indicate that movements in peer banks (CTG, BID, AGR), VN-Index, and the Fed interest rate have predictive power over VCB's price dynamics. Eigenvalue stability tests confirm that the VAR system is dynamically stable. Impulse response functions (IRF) further show that shocks from VN-Index and FED rates generate clear, time-lagged impacts on VCB, suggesting market sensitivity to both domestic and international signals.
