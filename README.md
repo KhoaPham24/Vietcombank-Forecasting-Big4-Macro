@@ -38,7 +38,6 @@ This project applies a 3-phase VAR-based framework—comprising data stationarit
 
 ![image](https://github.com/user-attachments/assets/6b9c7563-6da8-42d6-a5d6-06e92af1c24b)
 *This figure describes the framework in 3 phases*
-![Uploading image.png…]()
 
 
 ## Result
